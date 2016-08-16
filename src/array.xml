@@ -1,0 +1,913 @@
+<?xml version="1.0"?>
+<languages>
+  <language>
+    <code>ab</code>
+    <name>Abkhaz</name>
+    <nativeName>&#x430;&#x4A7;&#x441;&#x443;&#x430;</nativeName>
+  </language>
+  <language>
+    <code>aa</code>
+    <name>Afar</name>
+    <nativeName>Afaraf</nativeName>
+  </language>
+  <language>
+    <code>af</code>
+    <name>Afrikaans</name>
+    <nativeName>Afrikaans</nativeName>
+  </language>
+  <language>
+    <code>ak</code>
+    <name>Akan</name>
+    <nativeName>Akan</nativeName>
+  </language>
+  <language>
+    <code>sq</code>
+    <name>Albanian</name>
+    <nativeName>Shqip</nativeName>
+  </language>
+  <language>
+    <code>am</code>
+    <name>Amharic</name>
+    <nativeName>&#x12A0;&#x121B;&#x122D;&#x129B;</nativeName>
+  </language>
+  <language>
+    <code>ar</code>
+    <name>Arabic</name>
+    <nativeName>&#x627;&#x644;&#x639;&#x631;&#x628;&#x64A;&#x629;</nativeName>
+  </language>
+  <language>
+    <code>an</code>
+    <name>Aragonese</name>
+    <nativeName>Aragon&#xE9;s</nativeName>
+  </language>
+  <language>
+    <code>hy</code>
+    <name>Armenian</name>
+    <nativeName>&#x540;&#x561;&#x575;&#x565;&#x580;&#x565;&#x576;</nativeName>
+  </language>
+  <language>
+    <code>as</code>
+    <name>Assamese</name>
+    <nativeName>&#x985;&#x9B8;&#x9AE;&#x9C0;&#x9AF;&#x9BC;&#x9BE;</nativeName>
+  </language>
+  <language>
+    <code>av</code>
+    <name>Avaric</name>
+    <nativeName>&#x430;&#x432;&#x430;&#x440; &#x43C;&#x430;&#x446;&#x4C0;, &#x43C;&#x430;&#x433;&#x4C0;&#x430;&#x440;&#x443;&#x43B; &#x43C;&#x430;&#x446;&#x4C0;</nativeName>
+  </language>
+  <language>
+    <code>ae</code>
+    <name>Avestan</name>
+    <nativeName>avesta</nativeName>
+  </language>
+  <language>
+    <code>ay</code>
+    <name>Aymara</name>
+    <nativeName>aymar aru</nativeName>
+  </language>
+  <language>
+    <code>az</code>
+    <name>Azerbaijani</name>
+    <nativeName>az&#x259;rbaycan dili</nativeName>
+  </language>
+  <language>
+    <code>bm</code>
+    <name>Bambara</name>
+    <nativeName>bamanankan</nativeName>
+  </language>
+  <language>
+    <code>ba</code>
+    <name>Bashkir</name>
+    <nativeName>&#x431;&#x430;&#x448;&#x4A1;&#x43E;&#x440;&#x442; &#x442;&#x435;&#x43B;&#x435;</nativeName>
+  </language>
+  <language>
+    <code>eu</code>
+    <name>Basque</name>
+    <nativeName>euskara, euskera</nativeName>
+  </language>
+  <language>
+    <code>be</code>
+    <name>Belarusian</name>
+    <nativeName>&#x411;&#x435;&#x43B;&#x430;&#x440;&#x443;&#x441;&#x43A;&#x430;&#x44F;</nativeName>
+  </language>
+  <language>
+    <code>bn</code>
+    <name>Bengali</name>
+    <nativeName>&#x9AC;&#x9BE;&#x982;&#x9B2;&#x9BE;</nativeName>
+  </language>
+  <language>
+    <code>bh</code>
+    <name>Bihari</name>
+    <nativeName>&#x92D;&#x94B;&#x91C;&#x92A;&#x941;&#x930;&#x940;</nativeName>
+  </language>
+  <language>
+    <code>bi</code>
+    <name>Bislama</name>
+    <nativeName>Bislama</nativeName>
+  </language>
+  <language>
+    <code>bs</code>
+    <name>Bosnian</name>
+    <nativeName>bosanski jezik</nativeName>
+  </language>
+  <language>
+    <code>br</code>
+    <name>Breton</name>
+    <nativeName>brezhoneg</nativeName>
+  </language>
+  <language>
+    <code>bg</code>
+    <name>Bulgarian</name>
+    <nativeName>&#x431;&#x44A;&#x43B;&#x433;&#x430;&#x440;&#x441;&#x43A;&#x438; &#x435;&#x437;&#x438;&#x43A;</nativeName>
+  </language>
+  <language>
+    <code>my</code>
+    <name>Burmese</name>
+    <nativeName>&#x1017;&#x1019;&#x102C;&#x1005;&#x102C;</nativeName>
+  </language>
+  <language>
+    <code>ca</code>
+    <name>Catalan; Valencian</name>
+    <nativeName>Catal&#xE0;</nativeName>
+  </language>
+  <language>
+    <code>ch</code>
+    <name>Chamorro</name>
+    <nativeName>Chamoru</nativeName>
+  </language>
+  <language>
+    <code>ce</code>
+    <name>Chechen</name>
+    <nativeName>&#x43D;&#x43E;&#x445;&#x447;&#x438;&#x439;&#x43D; &#x43C;&#x43E;&#x442;&#x442;</nativeName>
+  </language>
+  <language>
+    <code>ny</code>
+    <name>Chichewa; Chewa; Nyanja</name>
+    <nativeName>chiChe&#x175;a, chinyanja</nativeName>
+  </language>
+  <language>
+    <code>zh</code>
+    <name>Chinese</name>
+    <nativeName>&#x4E2D;&#x6587; (Zh&#x14D;ngw&#xE9;n), &#x6C49;&#x8BED;, &#x6F22;&#x8A9E;</nativeName>
+  </language>
+  <language>
+    <code>cv</code>
+    <name>Chuvash</name>
+    <nativeName>&#x447;&#x4D1;&#x432;&#x430;&#x448; &#x447;&#x4D7;&#x43B;&#x445;&#x438;</nativeName>
+  </language>
+  <language>
+    <code>kw</code>
+    <name>Cornish</name>
+    <nativeName>Kernewek</nativeName>
+  </language>
+  <language>
+    <code>co</code>
+    <name>Corsican</name>
+    <nativeName>corsu, lingua corsa</nativeName>
+  </language>
+  <language>
+    <code>cr</code>
+    <name>Cree</name>
+    <nativeName>&#x14C0;&#x1426;&#x1403;&#x152D;&#x140D;&#x140F;&#x1423;</nativeName>
+  </language>
+  <language>
+    <code>hr</code>
+    <name>Croatian</name>
+    <nativeName>hrvatski</nativeName>
+  </language>
+  <language>
+    <code>cs</code>
+    <name>Czech</name>
+    <nativeName>&#x10D;esky, &#x10D;e&#x161;tina</nativeName>
+  </language>
+  <language>
+    <code>da</code>
+    <name>Danish</name>
+    <nativeName>dansk</nativeName>
+  </language>
+  <language>
+    <code>dv</code>
+    <name>Divehi; Dhivehi; Maldivian;</name>
+    <nativeName>&#x78B;&#x7A8;&#x788;&#x7AC;&#x780;&#x7A8;</nativeName>
+  </language>
+  <language>
+    <code>nl</code>
+    <name>Dutch</name>
+    <nativeName>Nederlands, Vlaams</nativeName>
+  </language>
+  <language>
+    <code>en</code>
+    <name>English</name>
+    <nativeName>English</nativeName>
+  </language>
+  <language>
+    <code>eo</code>
+    <name>Esperanto</name>
+    <nativeName>Esperanto</nativeName>
+  </language>
+  <language>
+    <code>et</code>
+    <name>Estonian</name>
+    <nativeName>eesti, eesti keel</nativeName>
+  </language>
+  <language>
+    <code>ee</code>
+    <name>Ewe</name>
+    <nativeName>E&#x28B;egbe</nativeName>
+  </language>
+  <language>
+    <code>fo</code>
+    <name>Faroese</name>
+    <nativeName>f&#xF8;royskt</nativeName>
+  </language>
+  <language>
+    <code>fj</code>
+    <name>Fijian</name>
+    <nativeName>vosa Vakaviti</nativeName>
+  </language>
+  <language>
+    <code>fi</code>
+    <name>Finnish</name>
+    <nativeName>suomi, suomen kieli</nativeName>
+  </language>
+  <language>
+    <code>fr</code>
+    <name>French</name>
+    <nativeName>fran&#xE7;ais, langue fran&#xE7;aise</nativeName>
+  </language>
+  <language>
+    <code>ff</code>
+    <name>Fula; Fulah; Pulaar; Pular</name>
+    <nativeName>Fulfulde, Pulaar, Pular</nativeName>
+  </language>
+  <language>
+    <code>gl</code>
+    <name>Galician</name>
+    <nativeName>Galego</nativeName>
+  </language>
+  <language>
+    <code>ka</code>
+    <name>Georgian</name>
+    <nativeName>&#x10E5;&#x10D0;&#x10E0;&#x10D7;&#x10E3;&#x10DA;&#x10D8;</nativeName>
+  </language>
+  <language>
+    <code>de</code>
+    <name>German</name>
+    <nativeName>Deutsch</nativeName>
+  </language>
+  <language>
+    <code>el</code>
+    <name>Greek, Modern</name>
+    <nativeName>&#x395;&#x3BB;&#x3BB;&#x3B7;&#x3BD;&#x3B9;&#x3BA;&#x3AC;</nativeName>
+  </language>
+  <language>
+    <code>gn</code>
+    <name>Guaran&#xED;</name>
+    <nativeName>Ava&#xF1;e&#x1EBD;</nativeName>
+  </language>
+  <language>
+    <code>gu</code>
+    <name>Gujarati</name>
+    <nativeName>&#xA97;&#xAC1;&#xA9C;&#xAB0;&#xABE;&#xAA4;&#xAC0;</nativeName>
+  </language>
+  <language>
+    <code>ht</code>
+    <name>Haitian; Haitian Creole</name>
+    <nativeName>Krey&#xF2;l ayisyen</nativeName>
+  </language>
+  <language>
+    <code>ha</code>
+    <name>Hausa</name>
+    <nativeName>Hausa, &#x647;&#x64E;&#x648;&#x64F;&#x633;&#x64E;</nativeName>
+  </language>
+  <language>
+    <code>he</code>
+    <name>Hebrew (modern)</name>
+    <nativeName>&#x5E2;&#x5D1;&#x5E8;&#x5D9;&#x5EA;</nativeName>
+  </language>
+  <language>
+    <code>hz</code>
+    <name>Herero</name>
+    <nativeName>Otjiherero</nativeName>
+  </language>
+  <language>
+    <code>hi</code>
+    <name>Hindi</name>
+    <nativeName>&#x939;&#x93F;&#x928;&#x94D;&#x926;&#x940;, &#x939;&#x93F;&#x902;&#x926;&#x940;</nativeName>
+  </language>
+  <language>
+    <code>ho</code>
+    <name>Hiri Motu</name>
+    <nativeName>Hiri Motu</nativeName>
+  </language>
+  <language>
+    <code>hu</code>
+    <name>Hungarian</name>
+    <nativeName>Magyar</nativeName>
+  </language>
+  <language>
+    <code>ia</code>
+    <name>Interlingua</name>
+    <nativeName>Interlingua</nativeName>
+  </language>
+  <language>
+    <code>id</code>
+    <name>Indonesian</name>
+    <nativeName>Bahasa Indonesia</nativeName>
+  </language>
+  <language>
+    <code>ie</code>
+    <name>Interlingue</name>
+    <nativeName>Originally called Occidental; then Interlingue after WWII</nativeName>
+  </language>
+  <language>
+    <code>ga</code>
+    <name>Irish</name>
+    <nativeName>Gaeilge</nativeName>
+  </language>
+  <language>
+    <code>ig</code>
+    <name>Igbo</name>
+    <nativeName>As&#x1EE5;s&#x1EE5; Igbo</nativeName>
+  </language>
+  <language>
+    <code>ik</code>
+    <name>Inupiaq</name>
+    <nativeName>I&#xF1;upiaq, I&#xF1;upiatun</nativeName>
+  </language>
+  <language>
+    <code>io</code>
+    <name>Ido</name>
+    <nativeName>Ido</nativeName>
+  </language>
+  <language>
+    <code>is</code>
+    <name>Icelandic</name>
+    <nativeName>&#xCD;slenska</nativeName>
+  </language>
+  <language>
+    <code>it</code>
+    <name>Italian</name>
+    <nativeName>Italiano</nativeName>
+  </language>
+  <language>
+    <code>iu</code>
+    <name>Inuktitut</name>
+    <nativeName>&#x1403;&#x14C4;&#x1483;&#x144E;&#x1450;&#x1466;</nativeName>
+  </language>
+  <language>
+    <code>ja</code>
+    <name>Japanese</name>
+    <nativeName>&#x65E5;&#x672C;&#x8A9E; (&#x306B;&#x307B;&#x3093;&#x3054;&#xFF0F;&#x306B;&#x3063;&#x307D;&#x3093;&#x3054;)</nativeName>
+  </language>
+  <language>
+    <code>jv</code>
+    <name>Javanese</name>
+    <nativeName>basa Jawa</nativeName>
+  </language>
+  <language>
+    <code>kl</code>
+    <name>Kalaallisut, Greenlandic</name>
+    <nativeName>kalaallisut, kalaallit oqaasii</nativeName>
+  </language>
+  <language>
+    <code>kn</code>
+    <name>Kannada</name>
+    <nativeName>&#xC95;&#xCA8;&#xCCD;&#xCA8;&#xCA1;</nativeName>
+  </language>
+  <language>
+    <code>kr</code>
+    <name>Kanuri</name>
+    <nativeName>Kanuri</nativeName>
+  </language>
+  <language>
+    <code>ks</code>
+    <name>Kashmiri</name>
+    <nativeName>&#x915;&#x936;&#x94D;&#x92E;&#x940;&#x930;&#x940;, &#x643;&#x634;&#x645;&#x64A;&#x631;&#x64A;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>kk</code>
+    <name>Kazakh</name>
+    <nativeName>&#x49A;&#x430;&#x437;&#x430;&#x49B; &#x442;&#x456;&#x43B;&#x456;</nativeName>
+  </language>
+  <language>
+    <code>km</code>
+    <name>Khmer</name>
+    <nativeName>&#x1797;&#x17B6;&#x179F;&#x17B6;&#x1781;&#x17D2;&#x1798;&#x17C2;&#x179A;</nativeName>
+  </language>
+  <language>
+    <code>ki</code>
+    <name>Kikuyu, Gikuyu</name>
+    <nativeName>G&#x129;k&#x169;y&#x169;</nativeName>
+  </language>
+  <language>
+    <code>rw</code>
+    <name>Kinyarwanda</name>
+    <nativeName>Ikinyarwanda</nativeName>
+  </language>
+  <language>
+    <code>ky</code>
+    <name>Kirghiz, Kyrgyz</name>
+    <nativeName>&#x43A;&#x44B;&#x440;&#x433;&#x44B;&#x437; &#x442;&#x438;&#x43B;&#x438;</nativeName>
+  </language>
+  <language>
+    <code>kv</code>
+    <name>Komi</name>
+    <nativeName>&#x43A;&#x43E;&#x43C;&#x438; &#x43A;&#x44B;&#x432;</nativeName>
+  </language>
+  <language>
+    <code>kg</code>
+    <name>Kongo</name>
+    <nativeName>KiKongo</nativeName>
+  </language>
+  <language>
+    <code>ko</code>
+    <name>Korean</name>
+    <nativeName>&#xD55C;&#xAD6D;&#xC5B4; (&#x97D3;&#x570B;&#x8A9E;), &#xC870;&#xC120;&#xB9D0; (&#x671D;&#x9BAE;&#x8A9E;)</nativeName>
+  </language>
+  <language>
+    <code>ku</code>
+    <name>Kurdish</name>
+    <nativeName>Kurd&#xEE;, &#x643;&#x648;&#x631;&#x62F;&#x6CC;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>kj</code>
+    <name>Kwanyama, Kuanyama</name>
+    <nativeName>Kuanyama</nativeName>
+  </language>
+  <language>
+    <code>la</code>
+    <name>Latin</name>
+    <nativeName>latine, lingua latina</nativeName>
+  </language>
+  <language>
+    <code>lb</code>
+    <name>Luxembourgish, Letzeburgesch</name>
+    <nativeName>L&#xEB;tzebuergesch</nativeName>
+  </language>
+  <language>
+    <code>lg</code>
+    <name>Luganda</name>
+    <nativeName>Luganda</nativeName>
+  </language>
+  <language>
+    <code>li</code>
+    <name>Limburgish, Limburgan, Limburger</name>
+    <nativeName>Limburgs</nativeName>
+  </language>
+  <language>
+    <code>ln</code>
+    <name>Lingala</name>
+    <nativeName>Ling&#xE1;la</nativeName>
+  </language>
+  <language>
+    <code>lo</code>
+    <name>Lao</name>
+    <nativeName>&#xE9E;&#xEB2;&#xEAA;&#xEB2;&#xEA5;&#xEB2;&#xEA7;</nativeName>
+  </language>
+  <language>
+    <code>lt</code>
+    <name>Lithuanian</name>
+    <nativeName>lietuvi&#x173; kalba</nativeName>
+  </language>
+  <language>
+    <code>lu</code>
+    <name>Luba-Katanga</name>
+    <nativeName/>
+  </language>
+  <language>
+    <code>lv</code>
+    <name>Latvian</name>
+    <nativeName>latvie&#x161;u valoda</nativeName>
+  </language>
+  <language>
+    <code>gv</code>
+    <name>Manx</name>
+    <nativeName>Gaelg, Gailck</nativeName>
+  </language>
+  <language>
+    <code>mk</code>
+    <name>Macedonian</name>
+    <nativeName>&#x43C;&#x430;&#x43A;&#x435;&#x434;&#x43E;&#x43D;&#x441;&#x43A;&#x438; &#x458;&#x430;&#x437;&#x438;&#x43A;</nativeName>
+  </language>
+  <language>
+    <code>mg</code>
+    <name>Malagasy</name>
+    <nativeName>Malagasy fiteny</nativeName>
+  </language>
+  <language>
+    <code>ms</code>
+    <name>Malay</name>
+    <nativeName>bahasa Melayu, &#x628;&#x647;&#x627;&#x633; &#x645;&#x644;&#x627;&#x64A;&#x648;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>ml</code>
+    <name>Malayalam</name>
+    <nativeName>&#xD2E;&#xD32;&#xD2F;&#xD3E;&#xD33;&#xD02;</nativeName>
+  </language>
+  <language>
+    <code>mt</code>
+    <name>Maltese</name>
+    <nativeName>Malti</nativeName>
+  </language>
+  <language>
+    <code>mi</code>
+    <name>M&#x101;ori</name>
+    <nativeName>te reo M&#x101;ori</nativeName>
+  </language>
+  <language>
+    <code>mr</code>
+    <name>Marathi (Mar&#x101;&#x1E6D;h&#x12B;)</name>
+    <nativeName>&#x92E;&#x930;&#x93E;&#x920;&#x940;</nativeName>
+  </language>
+  <language>
+    <code>mh</code>
+    <name>Marshallese</name>
+    <nativeName>Kajin M&#x327;aje&#x13C;</nativeName>
+  </language>
+  <language>
+    <code>mn</code>
+    <name>Mongolian</name>
+    <nativeName>&#x43C;&#x43E;&#x43D;&#x433;&#x43E;&#x43B;</nativeName>
+  </language>
+  <language>
+    <code>na</code>
+    <name>Nauru</name>
+    <nativeName>Ekakair&#x169; Naoero</nativeName>
+  </language>
+  <language>
+    <code>nv</code>
+    <name>Navajo, Navaho</name>
+    <nativeName>Din&#xE9; bizaad, Din&#xE9;k&#x2BC;eh&#x1F0;&#xED;</nativeName>
+  </language>
+  <language>
+    <code>nb</code>
+    <name>Norwegian Bokm&#xE5;l</name>
+    <nativeName>Norsk bokm&#xE5;l</nativeName>
+  </language>
+  <language>
+    <code>nd</code>
+    <name>North Ndebele</name>
+    <nativeName>isiNdebele</nativeName>
+  </language>
+  <language>
+    <code>ne</code>
+    <name>Nepali</name>
+    <nativeName>&#x928;&#x947;&#x92A;&#x93E;&#x932;&#x940;</nativeName>
+  </language>
+  <language>
+    <code>ng</code>
+    <name>Ndonga</name>
+    <nativeName>Owambo</nativeName>
+  </language>
+  <language>
+    <code>nn</code>
+    <name>Norwegian Nynorsk</name>
+    <nativeName>Norsk nynorsk</nativeName>
+  </language>
+  <language>
+    <code>no</code>
+    <name>Norwegian</name>
+    <nativeName>Norsk</nativeName>
+  </language>
+  <language>
+    <code>ii</code>
+    <name>Nuosu</name>
+    <nativeName>&#xA188;&#xA320;&#xA4BF; Nuosuhxop</nativeName>
+  </language>
+  <language>
+    <code>nr</code>
+    <name>South Ndebele</name>
+    <nativeName>isiNdebele</nativeName>
+  </language>
+  <language>
+    <code>oc</code>
+    <name>Occitan</name>
+    <nativeName>Occitan</nativeName>
+  </language>
+  <language>
+    <code>oj</code>
+    <name>Ojibwe, Ojibwa</name>
+    <nativeName>&#x140A;&#x14C2;&#x1511;&#x14C8;&#x142F;&#x14A7;&#x140E;&#x14D0;</nativeName>
+  </language>
+  <language>
+    <code>cu</code>
+    <name>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</name>
+    <nativeName>&#x469;&#x437;&#x44B;&#x43A;&#x44A; &#x441;&#x43B;&#x43E;&#x432;&#x463;&#x43D;&#x44C;&#x441;&#x43A;&#x44A;</nativeName>
+  </language>
+  <language>
+    <code>om</code>
+    <name>Oromo</name>
+    <nativeName>Afaan Oromoo</nativeName>
+  </language>
+  <language>
+    <code>or</code>
+    <name>Oriya</name>
+    <nativeName>&#xB13;&#xB21;&#xB3C;&#xB3F;&#xB06;</nativeName>
+  </language>
+  <language>
+    <code>os</code>
+    <name>Ossetian, Ossetic</name>
+    <nativeName>&#x438;&#x440;&#x43E;&#x43D; &#xE6;&#x432;&#x437;&#x430;&#x433;</nativeName>
+  </language>
+  <language>
+    <code>pa</code>
+    <name>Panjabi, Punjabi</name>
+    <nativeName>&#xA2A;&#xA70;&#xA1C;&#xA3E;&#xA2C;&#xA40;, &#x67E;&#x646;&#x62C;&#x627;&#x628;&#x6CC;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>pi</code>
+    <name>P&#x101;li</name>
+    <nativeName>&#x92A;&#x93E;&#x934;&#x93F;</nativeName>
+  </language>
+  <language>
+    <code>fa</code>
+    <name>Persian</name>
+    <nativeName>&#x641;&#x627;&#x631;&#x633;&#x6CC;</nativeName>
+  </language>
+  <language>
+    <code>pl</code>
+    <name>Polish</name>
+    <nativeName>polski</nativeName>
+  </language>
+  <language>
+    <code>ps</code>
+    <name>Pashto, Pushto</name>
+    <nativeName>&#x67E;&#x69A;&#x62A;&#x648;</nativeName>
+  </language>
+  <language>
+    <code>pt</code>
+    <name>Portuguese</name>
+    <nativeName>Portugu&#xEA;s</nativeName>
+  </language>
+  <language>
+    <code>qu</code>
+    <name>Quechua</name>
+    <nativeName>Runa Simi, Kichwa</nativeName>
+  </language>
+  <language>
+    <code>rm</code>
+    <name>Romansh</name>
+    <nativeName>rumantsch grischun</nativeName>
+  </language>
+  <language>
+    <code>rn</code>
+    <name>Kirundi</name>
+    <nativeName>kiRundi</nativeName>
+  </language>
+  <language>
+    <code>ro</code>
+    <name>Romanian, Moldavian, Moldovan</name>
+    <nativeName>rom&#xE2;n&#x103;</nativeName>
+  </language>
+  <language>
+    <code>ru</code>
+    <name>Russian</name>
+    <nativeName>&#x440;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439; &#x44F;&#x437;&#x44B;&#x43A;</nativeName>
+  </language>
+  <language>
+    <code>sa</code>
+    <name>Sanskrit (Sa&#x1E41;sk&#x1E5B;ta)</name>
+    <nativeName>&#x938;&#x902;&#x938;&#x94D;&#x915;&#x943;&#x924;&#x92E;&#x94D;</nativeName>
+  </language>
+  <language>
+    <code>sc</code>
+    <name>Sardinian</name>
+    <nativeName>sardu</nativeName>
+  </language>
+  <language>
+    <code>sd</code>
+    <name>Sindhi</name>
+    <nativeName>&#x938;&#x93F;&#x928;&#x94D;&#x927;&#x940;, &#x633;&#x646;&#x68C;&#x64A;&#x60C; &#x633;&#x646;&#x62F;&#x6BE;&#x6CC;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>se</code>
+    <name>Northern Sami</name>
+    <nativeName>Davvis&#xE1;megiella</nativeName>
+  </language>
+  <language>
+    <code>sm</code>
+    <name>Samoan</name>
+    <nativeName>gagana faa Samoa</nativeName>
+  </language>
+  <language>
+    <code>sg</code>
+    <name>Sango</name>
+    <nativeName>y&#xE2;ng&#xE2; t&#xEE; s&#xE4;ng&#xF6;</nativeName>
+  </language>
+  <language>
+    <code>sr</code>
+    <name>Serbian</name>
+    <nativeName>&#x441;&#x440;&#x43F;&#x441;&#x43A;&#x438; &#x458;&#x435;&#x437;&#x438;&#x43A;</nativeName>
+  </language>
+  <language>
+    <code>gd</code>
+    <name>Scottish Gaelic; Gaelic</name>
+    <nativeName>G&#xE0;idhlig</nativeName>
+  </language>
+  <language>
+    <code>sn</code>
+    <name>Shona</name>
+    <nativeName>chiShona</nativeName>
+  </language>
+  <language>
+    <code>si</code>
+    <name>Sinhala, Sinhalese</name>
+    <nativeName>&#xDC3;&#xDD2;&#xD82;&#xDC4;&#xDBD;</nativeName>
+  </language>
+  <language>
+    <code>sk</code>
+    <name>Slovak</name>
+    <nativeName>sloven&#x10D;ina</nativeName>
+  </language>
+  <language>
+    <code>sl</code>
+    <name>Slovene</name>
+    <nativeName>sloven&#x161;&#x10D;ina</nativeName>
+  </language>
+  <language>
+    <code>so</code>
+    <name>Somali</name>
+    <nativeName>Soomaaliga, af Soomaali</nativeName>
+  </language>
+  <language>
+    <code>st</code>
+    <name>Southern Sotho</name>
+    <nativeName>Sesotho</nativeName>
+  </language>
+  <language>
+    <code>es</code>
+    <name>Spanish; Castilian</name>
+    <nativeName>espa&#xF1;ol, castellano</nativeName>
+  </language>
+  <language>
+    <code>su</code>
+    <name>Sundanese</name>
+    <nativeName>Basa Sunda</nativeName>
+  </language>
+  <language>
+    <code>sw</code>
+    <name>Swahili</name>
+    <nativeName>Kiswahili</nativeName>
+  </language>
+  <language>
+    <code>ss</code>
+    <name>Swati</name>
+    <nativeName>SiSwati</nativeName>
+  </language>
+  <language>
+    <code>sv</code>
+    <name>Swedish</name>
+    <nativeName>svenska</nativeName>
+  </language>
+  <language>
+    <code>ta</code>
+    <name>Tamil</name>
+    <nativeName>&#xBA4;&#xBAE;&#xBBF;&#xBB4;&#xBCD;</nativeName>
+  </language>
+  <language>
+    <code>te</code>
+    <name>Telugu</name>
+    <nativeName>&#xC24;&#xC46;&#xC32;&#xC41;&#xC17;&#xC41;</nativeName>
+  </language>
+  <language>
+    <code>tg</code>
+    <name>Tajik</name>
+    <nativeName>&#x442;&#x43E;&#x4B7;&#x438;&#x43A;&#x4E3;, to&#x11F;ik&#x12B;, &#x62A;&#x627;&#x62C;&#x6CC;&#x6A9;&#x6CC;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>th</code>
+    <name>Thai</name>
+    <nativeName>&#xE44;&#xE17;&#xE22;</nativeName>
+  </language>
+  <language>
+    <code>ti</code>
+    <name>Tigrinya</name>
+    <nativeName>&#x1275;&#x130D;&#x122D;&#x129B;</nativeName>
+  </language>
+  <language>
+    <code>bo</code>
+    <name>Tibetan Standard, Tibetan, Central</name>
+    <nativeName>&#xF56;&#xF7C;&#xF51;&#xF0B;&#xF61;&#xF72;&#xF42;</nativeName>
+  </language>
+  <language>
+    <code>tk</code>
+    <name>Turkmen</name>
+    <nativeName>T&#xFC;rkmen, &#x422;&#x4AF;&#x440;&#x43A;&#x43C;&#x435;&#x43D;</nativeName>
+  </language>
+  <language>
+    <code>tl</code>
+    <name>Tagalog</name>
+    <nativeName>Wikang Tagalog, &#x170F;&#x1712;&#x1703;&#x1705;&#x1714; &#x1706;&#x1704;&#x170E;&#x1713;&#x1704;&#x1714;</nativeName>
+  </language>
+  <language>
+    <code>tn</code>
+    <name>Tswana</name>
+    <nativeName>Setswana</nativeName>
+  </language>
+  <language>
+    <code>to</code>
+    <name>Tonga (Tonga Islands)</name>
+    <nativeName>faka Tonga</nativeName>
+  </language>
+  <language>
+    <code>tr</code>
+    <name>Turkish</name>
+    <nativeName>T&#xFC;rk&#xE7;e</nativeName>
+  </language>
+  <language>
+    <code>ts</code>
+    <name>Tsonga</name>
+    <nativeName>Xitsonga</nativeName>
+  </language>
+  <language>
+    <code>tt</code>
+    <name>Tatar</name>
+    <nativeName>&#x442;&#x430;&#x442;&#x430;&#x440;&#x447;&#x430;, tatar&#xE7;a, &#x62A;&#x627;&#x62A;&#x627;&#x631;&#x686;&#x627;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>tw</code>
+    <name>Twi</name>
+    <nativeName>Twi</nativeName>
+  </language>
+  <language>
+    <code>ty</code>
+    <name>Tahitian</name>
+    <nativeName>Reo Tahiti</nativeName>
+  </language>
+  <language>
+    <code>ug</code>
+    <name>Uighur, Uyghur</name>
+    <nativeName>Uy&#x1A3;urq&#x259;, &#x626;&#x6C7;&#x64A;&#x63A;&#x6C7;&#x631;&#x686;&#x6D5;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>uk</code>
+    <name>Ukrainian</name>
+    <nativeName>&#x443;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;</nativeName>
+  </language>
+  <language>
+    <code>ur</code>
+    <name>Urdu</name>
+    <nativeName>&#x627;&#x631;&#x62F;&#x648;</nativeName>
+  </language>
+  <language>
+    <code>uz</code>
+    <name>Uzbek</name>
+    <nativeName>zbek, &#x40E;&#x437;&#x431;&#x435;&#x43A;, &#x623;&#x6C7;&#x632;&#x628;&#x6D0;&#x643;&#x200E;</nativeName>
+  </language>
+  <language>
+    <code>ve</code>
+    <name>Venda</name>
+    <nativeName>Tshiven&#x1E13;a</nativeName>
+  </language>
+  <language>
+    <code>vi</code>
+    <name>Vietnamese</name>
+    <nativeName>Ti&#x1EBF;ng Vi&#x1EC7;t</nativeName>
+  </language>
+  <language>
+    <code>vo</code>
+    <name>Volap&#xFC;k</name>
+    <nativeName>Volap&#xFC;k</nativeName>
+  </language>
+  <language>
+    <code>wa</code>
+    <name>Walloon</name>
+    <nativeName>Walon</nativeName>
+  </language>
+  <language>
+    <code>cy</code>
+    <name>Welsh</name>
+    <nativeName>Cymraeg</nativeName>
+  </language>
+  <language>
+    <code>wo</code>
+    <name>Wolof</name>
+    <nativeName>Wollof</nativeName>
+  </language>
+  <language>
+    <code>fy</code>
+    <name>Western Frisian</name>
+    <nativeName>Frysk</nativeName>
+  </language>
+  <language>
+    <code>xh</code>
+    <name>Xhosa</name>
+    <nativeName>isiXhosa</nativeName>
+  </language>
+  <language>
+    <code>yi</code>
+    <name>Yiddish</name>
+    <nativeName>&#x5D9;&#x5D9;&#x5B4;&#x5D3;&#x5D9;&#x5E9;</nativeName>
+  </language>
+  <language>
+    <code>yo</code>
+    <name>Yoruba</name>
+    <nativeName>Yor&#xF9;b&#xE1;</nativeName>
+  </language>
+  <language>
+    <code>za</code>
+    <name>Zhuang, Chuang</name>
+    <nativeName>Sa&#x26F; cue&#x14B;&#x185;, Saw cuengh</nativeName>
+  </language>
+</languages>
