@@ -1,0 +1,21 @@
+{
+  "name": "languagelist",
+  "description": "List of languages",
+  "main": "",
+  "authors": [
+    "Mark Topper <mark@ulties.com>"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "public-data",
+    "languages"
+  ],
+  "homepage": "https://github.com/public-data/languages",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

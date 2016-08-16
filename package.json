@@ -1,0 +1,19 @@
+{
+  "name": "languagelist",
+  "version": "1.0.0",
+  "description": "List of languages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public-data/languages.git"
+  },
+  "keywords": [
+    "public-data",
+    "languages"
+  ],
+  "author": "Mark Topper <mark@ulties.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/public-data/languages/issues"
+  },
+  "homepage": "https://github.com/public-data/languages#readme"
+}

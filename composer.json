@@ -1,0 +1,6 @@
+{
+  "name": "public-data/languages",
+  "description": "List of languages",
+  "keywords": ["public-data", "data", "languages"],
+  "type": "package"
+}
